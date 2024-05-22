@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ashhad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhad1200&label=Profile%20views&color=0e75b6&style=flat" alt="ashhad1200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhad1200" alt="ashhad1200" /></a> </p>
