@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ashhad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif"  />
+<img src="[https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhad1200&label=Profile%20views&color=0e75b6&style=flat" alt="ashhad1200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhad1200" alt="ashhad1200" /></a> </p>
@@ -16,7 +16,7 @@
 - 📫 How to reach me **syedashhad17@gmail.com**
 
 - ⚡ Fun fact **I Love to code**
-
+<img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syedmuhammadashhad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmuhammadashhad" height="30" width="40" /></a>
