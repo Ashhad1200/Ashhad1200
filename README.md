@@ -1,4 +1,3 @@
-[MasterHeader]("https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif")   />
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ashhad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhad1200&label=Profile%20views&color=0e75b6&style=flat" alt="ashhad1200" /> </p>
