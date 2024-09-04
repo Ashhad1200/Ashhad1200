@@ -15,13 +15,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif" alt="Coding Gif" width="300"/>
 
-- 🔭 I’m currently working on **Cyber Nest Pro** 🛡️
+- 🔭 I’m currently working on **React Query** 🛡️
 
-- 🌱 I’m diving deep into **Next.js & React** 💻
+- 🌱 I’m diving deep into **Next.js & React ,React Query** 💻
 
 - 👯 I’m open to collaboration on **Full Stack Projects** 🌍
 
-- 📝 I regularly write on [My Blog](https://your-blog-link.com) ✍️
+<!-- - 📝 I regularly write on [My Blog](https://your-blog-link.com) ✍️ -->
 
 - 💬 Ask me about **React, Next.js, and Frontend Development** 💬
 
@@ -100,9 +100,20 @@
   </a> 
 </p>
 
+<h3 align="left">Skills:</h3>
+<p align="left">
+  <ul>
+    <li><strong>Web Development:</strong> ASP.NET Web Forms, ASP.NET Web API, React.js / React, HTML / HTML5, CSS, Bootstrap, Tailwind CSS, Ant Design, JavaScript, jQuery</li>
+    <li><strong>Backend and Databases:</strong> JSON Server, SQL, SQL Server Management Studio, Firebase / Cloud Firestore, .NET Framework, C#</li>
+    <li><strong>Software Development:</strong> Programming, Version Control (Git), Model-View-Controller (MVC), Model-View-ViewModel (MVVM)</li>
+    <li><strong>Other Skills:</strong> User Experience (UX), Creative Problem Solving, Debugging, Software Documentation, Big-Picture Thinking, Communication, Mockups</li>
+  </ul>
+</p>
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhad1200&show_icons=true&locale=en&layout=compact" alt="ashhad1200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashhad1200&show_icons=true&locale=en" alt="ashhad1200" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashhad1200&" alt="ashhad1200" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhad1200&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashhad1200&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
