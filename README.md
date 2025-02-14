@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Syed Muhammad Ashhad 👋</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan 🚀</h3>
+<h1 align="center">👋 Hello, I'm Syed Muhammad Ashhad</h1>
+<h3 align="center">🚀 Passionate Frontend Developer | Turning Ideas into Reality</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashhad1200&label=Profile%20Views&color=0e75b6&style=flat" alt="ashhad1200" />
@@ -15,21 +15,19 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif" alt="Coding Gif" width="300"/>
 
-- 🔭 I’m currently working on **React Query** 🛡️
+---
 
-- 🌱 I’m diving deep into **Next.js & React ,React Query** 💻
+### 🛠️ **What I'm Up To**
+- 🔭 **Currently Working On:** React Query 🛡️  
+- 🌱 **Learning:** Next.js, React, and React Query 💻  
+- 👯 **Looking to Collaborate:** Full Stack Projects 🌍  
+- 💬 **Ask Me About:** React, Next.js, and Frontend Development 💬  
+- 📫 **Reach Me:** [syedashhad17@gmail.com](mailto:syedashhad17@gmail.com) 📧  
+- ⚡ **Fun Fact:** I love turning ideas into reality through code! 💡  
 
-- 👯 I’m open to collaboration on **Full Stack Projects** 🌍
+---
 
-<!-- - 📝 I regularly write on [My Blog](https://your-blog-link.com) ✍️ -->
-
-- 💬 Ask me about **React, Next.js, and Frontend Development** 💬
-
-- 📫 Reach me at **syedashhad17@gmail.com** 📧
-
-- ⚡ Fun fact: **I love turning ideas into reality through code!** 💡
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 **Connect With Me**
 <p align="left">
   <a href="https://linkedin.com/in/syedmuhammadashhad" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -42,7 +40,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ **Languages & Tools**
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -100,20 +100,22 @@
   </a> 
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <ul>
-    <li><strong>Web Development:</strong> ASP.NET Web Forms, ASP.NET Web API, React.js / React, HTML / HTML5, CSS, Bootstrap, Tailwind CSS, Ant Design, JavaScript, jQuery</li>
-    <li><strong>Backend and Databases:</strong> JSON Server, SQL, SQL Server Management Studio, Firebase / Cloud Firestore, .NET Framework, C#</li>
-    <li><strong>Software Development:</strong> Programming, Version Control (Git), Model-View-Controller (MVC), Model-View-ViewModel (MVVM)</li>
-    <li><strong>Other Skills:</strong> User Experience (UX), Creative Problem Solving, Debugging, Software Documentation, Big-Picture Thinking, Communication, Mockups</li>
-  </ul>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhad1200&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📊 **GitHub Stats**
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashhad1200&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhad1200&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 🧠 **Skills**
+- **Web Development:** ASP.NET Web Forms, ASP.NET Web API, React.js / React, HTML / HTML5, CSS, Bootstrap, Tailwind CSS, Ant Design, JavaScript, jQuery  
+- **Backend & Databases:** JSON Server, SQL, SQL Server Management Studio, Firebase / Cloud Firestore, .NET Framework, C#  
+- **Software Development:** Programming, Version Control (Git), Model-View-Controller (MVC), Model-View-ViewModel (MVVM)  
+- **Other Skills:** User Experience (UX), Creative Problem Solving, Debugging, Software Documentation, Big-Picture Thinking, Communication, Mockups  
+
+---
+
+<p align="center">✨ Let's build something amazing together! ✨</p>
