@@ -81,6 +81,10 @@ I'm a founder and hands-on engineer. I run two software companies and still writ
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+**Certifications and endorsed skills**<br/>
+<a href="https://www.linkedin.com/in/syedmuhammadashhad/details/certifications/"><img src="https://img.shields.io/badge/View%20certifications-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn certifications"/></a>
+<a href="https://www.linkedin.com/in/syedmuhammadashhad/details/skills/"><img src="https://img.shields.io/badge/View%20skills%20%26%20endorsements-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn skills"/></a>
+
 ---
 
 ## 📊 GitHub activity
